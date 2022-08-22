@@ -1,0 +1,18 @@
+04.29 11:13
+Tutor Note
+                  >> Perlengkapan <<
+Untuk Ubah Warna Text
+<font color='red'><b>Text Nya</b></font>
+Untuk Ubah Text Jadi Warna Warni
+https://patorjk.com/text-color-fader/
+Untuk Ubah Background Text
+<p style="background-color:purple"><font color='green'>halo</font</p>
+Untuk Ubah Posisi Text
+<p style="text-align:center"><b><font color='red'><b>Text Nyaa</b></font>
+
+
+Untuk Buat Text Unik
+coolsymbol.com
+www.textartgenerator.net
+https://www.messletters.com/en/waves/
+https://texteditor.com/
